@@ -38,7 +38,7 @@
 * :white_check_mark: [IELTS Writing Checker](https://ieltswritingchecker.org/)：雅思作文批改和辅导
 
 #### my19940202(上海) - [Github](https://github.com/my19940202)
-* :white_check_mark: [黄油单词](https://waiyuka.cc)：一个免费的在线背单词工具， 每张单词卡配有AI插图、单词发音和例句朗读，支持西班牙语、法语、德语、日语。
+* :white_check_mark: [黄油单词](https://waiyuka.cc)：免费的在线背单词工具， 每张单词卡配有AI插图、单词发音和例句朗读，支持西班牙语、法语、德语、日语。
   
 ### 2026 年 7 月 4 号添加
 
@@ -63,7 +63,7 @@
 * :white_check_mark: [email signature generator](https://email-signature-generator.online/)：免费的专业邮件签名在线生成器
 
 #### Jimmy (北京) - [Github](https://github.com/)
-* :white_check_mark: [ToolGarden](https://toolgarden.xyz): 一个免费在线的全能工具箱，包含 JSON、PDF、图片、二维码、信息编解码、字幕制作等常用工具， 完全本地浏览器处理，隐私安全。
+* :white_check_mark: [ToolGarden](https://toolgarden.xyz): 免费在线的全能工具箱，包含 JSON、PDF、图片、二维码、信息编解码、字幕制作等常用工具， 完全本地浏览器处理，隐私安全。
 
 ### 2026 年 7 月 1 号添加
 
