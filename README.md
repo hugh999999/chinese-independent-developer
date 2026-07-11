@@ -26,6 +26,12 @@
 
 ### 2026 年 7 月 11 号添加
 
+#### cabbagehao - [Github](https://github.com/vivifyvideo/vivify)
+* :white_check_mark: [Vivify 实时视频换脸](https://vivify.video/zh/realtime-face-swap)：AI 实时视频换脸，支持一键换脸、变装和风格重绘
+
+#### lvning
+* :white_check_mark: [Dramily](https://dramily.com)：一站式真人短剧生成工厂
+
 #### ethanjamescolez - [Github](https://github.com/ethanjamescolez)
 * :white_check_mark: [AI YouTube Transcript](https://aiyoutubetranscript.com/)：无需注册的 YouTube 转录工具，可搜索 transcript、跳转时间戳，并导出 TXT、SRT、VTT
 
