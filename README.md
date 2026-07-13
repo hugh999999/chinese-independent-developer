@@ -24,6 +24,17 @@
 
 ## 3. 项目列表
 
+### 2026 年 7 月 13 号添加
+
+#### xsf0221(深圳)
+* :white_check_mark: [Listlift](https://listlift.dev)：面向 Etsy 卖家的内容引擎，将自有商品 Listing 转成符合卖家口吻、可审核编辑的 Pinterest 与 Instagram 内容
+
+#### evertrain(杭州) - [Github](https://github.com/evertrain)
+* :white_check_mark: [璞奇](https://www.zendong.com.cn)：将书本、B 站、得到等学习内容生成练习，帮助掌握新知，支持 App、Chrome 插件和 Agent Skill - [更多介绍](https://mp.weixin.qq.com/s/HRRpKg2oAt_toZNTpY-foA)
+
+#### MuRong - [Github](https://github.com/murongg)
+* :white_check_mark: [Markra](https://editor.markra.app/)：本地优先的开源所见即所得 Markdown 编辑器，支持 Web、macOS、Windows 和 Linux，AI 修改可预览后应用 - [更多介绍](https://github.com/markrahq/markra/blob/main/README.zh-CN.md)
+
 ### 2026 年 7 月 12 号添加
 
 #### Banlon - [Github](https://github.com/Banlon)
