@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 14 号添加
 
+#### dhr2333(温州) - [Github](https://github.com/dhr2333/Beancount-Trans)
+* :white_check_mark: [Beancount-Trans](https://trans.dhr2333.cn/)：上传账单，自动转换为可审计的 Beancount 复式记账数据，并在几分钟内查看财务报表
+
 * :white_check_mark: [Atomi](https://atomi.chat)：AI 工具与数字服务的验证交易市场——沙箱执行，回执为凭，验后放款。
 
 #### gtn1024 - [Github](https://github.com/gtn1024)
