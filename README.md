@@ -23,6 +23,11 @@
 | :clock8: | :white_check_mark: | :x: |
 
 ## 3. 项目列表
+### 2026 年 7 月 20 号添加
+
+#### hugh999999 - [Github](https://github.com/hugh999999)
+* :white_check_mark: [NFC 卡片读写工具](https://github.com/hugh999999/nfc_tool_share_key)：NFC M1 卡密钥扫描工具，微信小程序和 Android APP 双平台支持，智能扇区优先扫描、断点续扫、多种格式导出
+
 ### 2026 年 7 月 19 号添加
 
 #### xiaoshangmin(深圳) - [Github](https://github.com/xiaoshangmin)
